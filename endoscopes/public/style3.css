@@ -1,0 +1,172 @@
+*{
+    font-family: "Jost", sans-serif;
+    box-sizing: border-box;
+}
+
+h1{
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 70px;
+}
+
+#endo{
+    color :rgb(65, 87, 161);
+    font-weight: bold;
+    text-shadow: 3px 3px 1px rgb(121, 121, 121);
+    font-size: 62px;
+    border: 1px black;
+}
+
+#user{
+    font-size: 18px;
+    margin-right: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color : black;
+    border : 1.5px solid rgb(187, 180, 180);
+    border-radius: 20px;
+}
+
+nav li{
+    font-size: 15px;
+    margin-right : 10px;
+    margin-left : 5px;
+    color: #000;
+}
+
+.org{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.org img{
+    width : 300px;
+    height : px;
+    margin-top: 50px;
+}
+
+#ab{
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 50px;
+}
+
+.arrange{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.arrange1{
+    justify-content: left;
+    align-items: left;
+    width : 600px;
+    margin-left: 40px;
+}
+
+#portrait{
+    align-items: center;
+    padding : 40px;
+    
+  }
+
+  .photos{
+    width : 250px;
+    height : px;
+  }
+
+.left-head{
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.right-head{
+    text-align: right;
+}
+
+.arrange1 h5{
+    margin-bottom: 12px;
+    color : slategray;
+}
+
+.arrange1 h4{
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.but-style{
+    margin-top: 15px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(93, 160, 84);
+    color: white;
+    border-radius: 4px;
+    border: 1px solid rgb(93, 160, 84);
+    border-style: outset;
+}
+
+.but-style:hover{
+    background-color: white;
+    color : rgb(78, 79, 57);
+}
+
+
+#gastro{
+    margin-top : 50px;
+    margin-bottom: 50px;
+}
+
+#broncho{
+    margin-top : 50px;
+    margin-bottom: 50px;
+}
+
+#colono{
+    margin-top : 50px;
+    margin-bottom: 50px;
+}
+
+
+.arrange2{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width : 400px;
+    margin-left: 30px;
+}
+
+
+
+.arrange1 h4{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.arrange1 h2{
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: square;
+}
+
+li{
+    color: rgb(50, 50, 51); 
+    margin-top:4px;
+    font-size: 12px;
+}
+
+
+

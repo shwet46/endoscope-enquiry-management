@@ -1,0 +1,75 @@
+*{
+    font-family: "Jost", sans-serif;
+    box-sizing: border-box;
+}
+
+form{
+    width : 450px;
+    background-color:rgb(167, 214, 182);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#form-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding-left: 30px;
+}
+
+.but-style{
+    margin-top: 15px;
+    width: 110px;
+    height: 42px;
+    font-size: 20px;
+    background-color: rgb(93, 160, 84);
+    color: white;
+    border-radius: 4px;
+    border: 1px solid rgb(93, 160, 84);
+    border-style: outset;
+}
+
+.but-style:hover{
+    background-color: white;
+    color : rgb(78, 79, 57);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(51, 51, 104);
+    text-shadow: 1px 1px rgb(117, 115, 115);
+}
+
+h4{
+    margin-top: 5px;
+}
+
+.align{
+    text-align : left;
+}
+
+nav li{
+    font-size: 15px;
+    margin-right : 10px;
+    margin-left : 5px;
+    color: #000;
+}
+
+#user{
+    font-size: 18px;
+    margin-right: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color : black;
+    border : 1.5px solid rgb(187, 180, 180);
+    border-radius: 20px;
+}

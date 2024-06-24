@@ -1,0 +1,75 @@
+*{
+    font-family: "Jost", sans-serif;
+    box-sizing: border-box;
+}
+
+
+#user{
+    font-size: 18px;
+    margin-right: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color : black;
+    border : 1.5px solid rgb(187, 180, 180);
+    border-radius: 20px;
+}
+
+nav li{
+    font-size: 15px;
+    margin-right : 10px;
+    margin-left : 5px;
+    color: black;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(51, 51, 104);
+    text-shadow: 1px 1px rgb(117, 115, 115);
+}
+
+form{
+    width : 450px;
+    background-color:rgba(155, 221, 135,0.7);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+#form-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding-left: 30px;
+}
+
+#reg{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#reg h3{
+    color : rgb(23, 40, 23);
+}
+
+#reg a{
+    font-size: 25px;
+    color: rgb(59, 119, 59);
+}
+
+#reg a:hover{
+    font-size: 25px;
+    color: rgb(30, 73, 30);
+}
+
+
+
